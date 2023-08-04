@@ -1,0 +1,1 @@
+export { fatherPath } from "./fatherPath";
